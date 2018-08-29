@@ -1,0 +1,8 @@
+title: Windyty API
+description: Windyty API
+google_analytics: UA-56263486-8
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
